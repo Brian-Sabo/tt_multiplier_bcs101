@@ -13,7 +13,7 @@ This multiplys two 4 bit inputs to make a 8 bit output.
 
 ## How to test
 
-The project can be tested with the mult_tb.v included in src
+The project can be tested with the tb.v
 
 ## External hardware
 

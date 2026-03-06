@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This multply two 4 bit inputs to make a 8 bit output.
+This multiples two 4 bit inputs to make a 8 bit output.
 
 ## How to test
 
